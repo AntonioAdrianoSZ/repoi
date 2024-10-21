@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    font-family:'Georgia';
+    font-family:'Georgia', 'Copperplate';
 }
 .cabecalho {
     background-color: #6b4d16;
