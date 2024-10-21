@@ -48,17 +48,18 @@ body {
 
 
 .escola-titulo{
-    padding: 68px 0;
+    padding: 34px 0;
+    width: 68px 0;
 }
 
 .escola-texto-um{
     text-align: center;
-    padding: 17px 0;
+    padding: 10px 0;
 }
 
 .escola-texto-dois{
     text-align: center;
-    padding: 17px 0;
+    padding: 10px 0;
 }
 
 .estudante{
