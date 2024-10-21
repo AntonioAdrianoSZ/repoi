@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins';
 }
 .cabecalho {
-    background-color: #424E61;
+    background-color: #dbb300;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -34,7 +34,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#865514,#e6e200);
+    background-image: linear-gradient(#995905,#e69d00);
     color:white;
     display: flex;
     justify-content: center;
@@ -86,11 +86,11 @@ body {
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-    background-color: rgba(156, 174, 177, 0.411);
+    background-color: rgba(177, 175, 156, 0.411);
 }
 
 .rodape{
-    background-color: rgba(0, 81, 255, 0.575);
+    background-color: rgba(255, 166, 0, 0.575);
     text-align: center;
 }
 
