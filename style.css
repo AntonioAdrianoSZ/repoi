@@ -3,7 +3,7 @@
     padding: 0;
 }
 body {
-    font-family: 'Poppins', minecraft;
+    font-family: 'Poppins';
 }
 .cabecalho {
     background-color: #424E61;
@@ -34,7 +34,7 @@ body {
 }
 
 .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#865514,#e6e200);
     color:white;
     display: flex;
     justify-content: center;
@@ -49,6 +49,11 @@ body {
 
 .escola-titulo{
     padding: 34px 0;
+}
+
+.escola-texto-um{
+    text-align: center;
+    padding: 17px 0;
 }
 
 .estudante{
