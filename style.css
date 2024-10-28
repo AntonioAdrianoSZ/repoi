@@ -85,7 +85,8 @@ body {
 
 .estudante-todos{
     display: grid;
-    grid-template-columns: 40% 40% 40% 40% 40%;
+    width: 50px;
+    grid-template-columns: 20% 20% 20% 20% 20%;
     background-color: rgba(177, 175, 156, 0.411);
 }
 
